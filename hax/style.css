@@ -10,7 +10,7 @@
 
 }
 .scroll-nav{
-	background: linear-gradient(to right, #ff00cc, #333399);
+	background: linear-gradient(to right, #333399, #ff00cc);
 }
 .header-ele{
 	display: inline-block;
@@ -27,7 +27,6 @@
 	padding: 20px;
 	position: relative;
 	z-index: 1
-
 	margin:-3px;
 	font-family: 'Raleway',verdana;
 
@@ -69,9 +68,9 @@
 	font-size: 30px;
 	position: relative;
 	font-family: 'Raleway',verdana;
-	top: 7px;
+	top: -40px;
 	font-weight: 100;
-	left: 20px;
+	left: -45px;
 }
 
 .nav-head{
